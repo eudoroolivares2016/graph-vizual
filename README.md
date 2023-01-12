@@ -1,4 +1,4 @@
-# GraphViz#
+# GraphViz #
 
 This repo is to visualize graph-database data in a nice Ui
 features are to search the graph database, a query helper to build searches for those less familiar with the gremlin graph query language
