@@ -1,0 +1,15 @@
+{
+  "short_name": "graph-viz",
+  "name": "graphviz",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "red"
+}
