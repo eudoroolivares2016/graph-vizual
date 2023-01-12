@@ -199,7 +199,7 @@ function Options (props) {
             <h1>Type: {selectedHeader}</h1>
             <Grid item xs={12} sm={12} md={12}>
               <Grid container>
-                <Table aria-label="simple" table size= "medium" >
+                <Table aria-label="simple" table-size= "medium" >
                   <TableBody>
                     <TableRow key={'type'}>
                       <TableCell scope="row">Label</TableCell>
